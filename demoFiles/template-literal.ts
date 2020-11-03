@@ -10,7 +10,7 @@
   const salida = `
 	${nombre}
 	${apellido}
-	s(Edad: ${getEdad()})`;
+	(Edad: ${getEdad()})`;
   console.log(salida);
 
 })();
